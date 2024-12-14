@@ -4,6 +4,19 @@ venv/
 
 # Test file
 sources/testing.ipynb
+sources/.ipynb_checkpoints
+sources/.ipynb_checkpoints/
 
 .DS_Store
 datasets/.DS_Store
+
+.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# Quarto components
+Slide-PDS.*
+Slide-PDS_files
+Slide-PDS_files/
+.Rhistory
+conda
+style.css
